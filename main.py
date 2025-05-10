@@ -1,6 +1,2 @@
-def main():
-    print("Hello from api-projects!")
+# Streamlit app
 
-
-if __name__ == "__main__":
-    main()
